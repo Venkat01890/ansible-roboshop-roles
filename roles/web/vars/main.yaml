@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.practicedevops.shop
+USER_HOST: user.practicedevops.shop
+CART_HOST: cart.practicedevops.shop
+SHIPPING_HOST: shipping.practicedevops.shop
+PAYMENT_HOST: payment.practicedevops.shop
