@@ -9,4 +9,4 @@
     state: installed
 
 - name: Load {{component}} data
-  ansible.builtin.command: mongo --host mongodb.practicedevops.shop < /app/schema/{{component}}.js
+  ansible.builtin.shell: mongo --host mongodb.practicedevops.shop < /app/schema/{{component}}.js
